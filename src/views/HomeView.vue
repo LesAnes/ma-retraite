@@ -16,7 +16,7 @@ const handleClick = (param: string | null): void => {
         <span class="bold">RETRAITE !</span>
       </h1>
       
-      <p>Ce simulateur est vraiment très objectif et s'appuie sur <span class="bold">une bonne foi exemplaire</span>. Il permet de donner un fabuleux exemple d'une <span class="bold">démocratie fonctionnelle</span> et pas du tout incline à tomber dans le fascisme <span class="bold">dans 7 jours.</span></p>
+      <p>Ce simulateur est vraiment très objectif et s'appuie sur <span class="bold">une bonne foi exemplaire</span>. Il permet de donner un fabuleux exemple d'une <span class="bold">démocratie fonctionnelle</span>, pas du tout encline à tomber dans le fascisme <span class="bold">dans 7 jours.</span></p>
       <p><span class="bold">Il permet ainsi d'élever le débat et de ne pas du tout induire en erreur des potentiels électeurs soucieux de voir leur retraite baisser.</span></p>
     </div>
 
