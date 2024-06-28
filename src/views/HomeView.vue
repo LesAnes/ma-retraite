@@ -117,6 +117,7 @@ const handleClick = (param: string | null): void => {
   .modal {
     display: flex;
     justify-content: center;
+    align-items: center;
     position: fixed;
     background-color: white;
     width: 90%;
